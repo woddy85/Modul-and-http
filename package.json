@@ -1,0 +1,22 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woddy85/Modul-and-http.git"
+  },
+  "keywords": [
+    "woddy"
+  ],
+  "author": "Guru99. <guru99@gmail.com> (http://Guru99.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woddy85/Modul-and-http/issues"
+  },
+  "homepage": "https://github.com/woddy85/Modul-and-http#readme"
+}
